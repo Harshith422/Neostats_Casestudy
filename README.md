@@ -1,5 +1,7 @@
 # LearnMate AI
 
+**[🔴 Live Demo on Streamlit Cloud](https://your-app-name.streamlit.app) ← Click here to try it!**
+
 LearnMate AI is an intelligent student learning assistant powered by Groq (Llama-3) and Tavily Web Search. It blends Retrieval-Augmented Generation (RAG) with real-time web search to provide direct, accurate answers from study materials or the internet.
 
 ## Prerequisites
@@ -36,7 +38,7 @@ LearnMate AI is an intelligent student learning assistant powered by Groq (Llama
    TAVILY_API_KEY=your_tavily_key_here
    ```
 
-## Running the Application
+## Running the Application Locally
 
 To start the LearnMate AI app locally, run the following command in your terminal:
 
