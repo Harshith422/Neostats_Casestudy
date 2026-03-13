@@ -1,6 +1,6 @@
 # LearnMate AI
 
-**[🔴 Live Demo on Streamlit Cloud](https://your-app-name.streamlit.app) ← Click here to try it!**
+**[Live Demo on Streamlit Cloud](https://neostatscasestudy-orwsczuexnrbvlskzwrdml.streamlit.app/) ← Click here to try it!**
 
 LearnMate AI is an intelligent student learning assistant powered by Groq (Llama-3) and Tavily Web Search. It blends Retrieval-Augmented Generation (RAG) with real-time web search to provide direct, accurate answers from study materials or the internet.
 
